@@ -25,8 +25,8 @@ var emojiDictionary = {
   "👩‍❤️‍👨 ": "OYO!!",
   "👨‍👩‍👧‍👦": "Hum Do Hmare Do!!",
   "😄": "Chl Jutha!!",
-  "🤪": "Baklol!!",
-  "🤫": "Chup Re!!",
+  "🤪": "Htt Baklol!!",
+  "🤫": "Chup Reh Na!!",
   "🤔": "Konsi Gali Du!!",
   "😑": "Abe Ja Na!!",
   "😔": "Dil Se Bura Lgta Hai!!",
@@ -40,11 +40,11 @@ var emojiDictionary = {
   "💋": "Chummi Max Pro!!",
   "🤚": "Congress!!",
   "🌷": "BJP!!",
-  "👊": "Mukka Khana Hai!!",
-  "🙏": "Tu Jita!!",
+  "👊": "Mukka Maar Denge!!",
+  "🙏": "Ha Re Tu Jita!!",
   "🦵": "Leg Piece Bna Denge!!",
   "👃": "Lord Voldemort!!",
-  "👋": "Ek Kantap P Denge!!"
+  "👋": "Ek Kantap P Denge Na!!"
 
 };
 var emojisWeKnow = Object.keys(emojiDictionary)
