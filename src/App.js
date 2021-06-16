@@ -13,7 +13,7 @@ var emojiDictionary = {
   "🖕": "Fuck You!!",
   "👩‍💻": "Coder Ayushi!!",
   "👨‍👩‍👧": "Nhi Baby Mujhe Ek Hi Baby Chaiye!!",
-  "🦈": "Chandra Mohan Pandey!!",
+  "🦈": "Whale Machli!!",
   "🌿": " Gaanja!!",
   "😒": "Huh!! Kuch Bhi!!",
   "🙄": "Kya Bol Rhe Ho!!",
