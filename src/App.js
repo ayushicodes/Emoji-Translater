@@ -81,7 +81,7 @@ export default function App() {
           </span>
         );
       })}
-      <footer></footer>
+      <footer>     </footer>
     </div>
   )
 }
